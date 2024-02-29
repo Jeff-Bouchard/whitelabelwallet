@@ -2,7 +2,7 @@ repo_name: Jeff-Bouchard/whitelabelwallet
 report_id: 7fc4bfd3f5d405e4032c93223184e5a0
 version: 0.1
 repo_type: Public
-timestamp: '2024-02-04T14:48:13+00:00'
+timestamp: '2024-02-29T19:54:34+00:00'
 requested_by: nicolam1
 provider: github
 branch: master
@@ -55,7 +55,7 @@ tools:
   detection_source_url: https://github.com/Jeff-Bouchard/whitelabelwallet
   detection_source: Repo Metadata
 - name: Swift
-  description: 'An innovative new programming language for Cocoa and Cocoa Touch. '
+  description: An innovative new programming language for Cocoa and Cocoa Touch.
   website_url: https://developer.apple.com/swift/
   license: Apache-2.0
   open_source: true
@@ -386,7 +386,7 @@ tools:
   last_updated_by: ericky14
   last_updated_on: 2019-07-12 20:19:22.000000000 Z
 - name: Prettier
-  description: 'Prettier is an opinionated code formatter. '
+  description: Prettier is an opinionated code formatter.
   website_url: https://prettier.io/
   version: 1.10.2
   license: MIT
